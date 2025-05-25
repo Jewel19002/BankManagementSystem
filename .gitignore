@@ -1,0 +1,23 @@
+
+# Compiled class file
+*.class
+
+# NetBeans project files
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nbm/
+
+# IDE specific
+*.iml
+.idea/
+*.log
+
+# Database temp files
+*.db
+
+# OS generated
+.DS_Store
+Thumbs.db
