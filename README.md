@@ -5,13 +5,13 @@ A Java Swing-based desktop application for managing basic banking operations lik
 ## 📸 Screenshots
 
 ### 🔐 Login Screen
-![Login Screen](src/bank/management/system/Screenshot/login_screen.png)
+![Login Screen](src/Screenshot/login_screen.png)
 
 ### 🧑‍💼 Dashboard
-![Dashboard](src/bank/management/system/Screenshot/dashboard_screen.png)
+![Dashboard](src/Screenshot/dashboard_screen.png)
 
 ### 🧑‍💻 NetBeans Code View
-![NetBeans Code](src/bank/management/system/Screenshot/netbeans_code.png)
+![NetBeans Code](src/Screenshot/netbeans_code.png)
 
 ## 🛠️ Tech Stack
 
